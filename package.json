@@ -1,0 +1,14 @@
+{
+  "name": "nest",
+  "version": "1.0.0",
+  "description": "this is a Nest ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "W.J.P",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cli": "^5.8.0"
+  }
+}
